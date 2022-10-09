@@ -40,7 +40,3 @@ html {
   min-height: var(--minh);
 }
 
-h2 {
-  /** set the color of the text **/
-  color: var(--color1);
-}
